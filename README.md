@@ -4,10 +4,13 @@
 
 ## 다운로드
 
-최신 버전: [SchoolClock-v0.9-win-x64.exe](https://github.com/namsigi/school-clock-releases/releases/download/v0.9/SchoolClock-v0.9-win-x64.exe)
+최신 버전: [SchoolClock-v0.91-win-x64.exe](https://github.com/namsigi/school-clock-releases/releases/download/v0.91/SchoolClock-v0.91-win-x64.exe)
 
 - Windows 64비트용 단일 실행 파일
 - 별도의 설치 및 .NET 설치 불필요
-- 현재 버전: v0.9
+- 현재 버전: v0.91
+- 설정에서 Windows 시작 시 자동 실행 가능
+
+자동 실행을 설정한 뒤 파일 위치를 옮기면 새 위치에서 옵션을 다시 저장하세요.
 
 > 코드 서명이 없는 초기 배포판이므로 Windows SmartScreen 경고가 나타날 수 있습니다.
