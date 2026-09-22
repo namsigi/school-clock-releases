@@ -4,11 +4,12 @@
 
 ## 다운로드
 
-최신 버전: [SchoolClock-v0.92-win-x64.exe](https://github.com/namsigi/school-clock-releases/releases/download/v0.92/SchoolClock-v0.92-win-x64.exe)
+최신 버전: [SchoolClock-v0.92.1-win-x64.exe](https://github.com/namsigi/school-clock-releases/releases/download/v0.92.1/SchoolClock-v0.92.1-win-x64.exe)
 
 - Windows 64비트용 단일 실행 파일
 - 별도의 설치 및 .NET 설치 불필요
-- 현재 버전: v0.92
+- 현재 버전: v0.92.1
+- 4교시와 5교시 사이를 점심시간으로 표시
 - 설정에서 Windows 시작 시 자동 실행 가능
 - 수업 시작·종료 전후 1분 동안 마이크로 종소리를 감지해 학교 시각을 한 번 자동 보정
 
